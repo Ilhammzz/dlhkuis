@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=ID, ST=East Java, L=Surabaya, O=ITS, OU=DPTSI, CN=openvpn/name=DPTSI-OPENVPN/emailAddress=roy@its.ac.id
+        Validity
+            Not Before: Jul 20 01:57:17 2017 GMT
+            Not After : Jul 18 01:57:17 2027 GMT
+        Subject: C=ID, ST=East Java, L=Surabaya, O=ITS, OU=DPTSI, CN=its-client/name=ITS-DPTSI/emailAddress=dptsi@its.ac.id
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:ae:26:56:bf:07:63:72:45:05:ce:04:c2:33:56:
+                    d4:20:c6:8b:7f:99:e3:51:0c:2b:02:0d:73:a4:78:
+                    a6:6b:f0:ae:2f:ac:bc:05:41:f3:1a:3d:2c:be:6b:
+                    da:7d:e8:c3:1b:03:39:c3:5c:df:19:f5:3b:79:09:
+                    8d:54:6e:be:e1:d1:80:16:47:9f:1f:67:52:3c:2a:
+                    c9:fa:6d:2f:0b:dd:b0:ba:94:85:92:6b:30:c1:35:
+                    34:67:ae:df:67:d9:2c:65:ec:13:3c:60:18:ee:02:
+                    43:3e:56:05:05:a1:ee:a1:55:cf:72:f5:30:d7:31:
+                    0a:02:44:7e:1e:97:6a:a5:19:47:90:cd:b2:12:00:
+                    44:c6:bd:0f:65:7b:72:48:3c:0e:4e:29:92:86:51:
+                    0e:4e:73:c7:94:c8:96:2e:ad:d9:98:e3:a7:7d:ae:
+                    ae:d5:08:a2:24:f6:7d:56:49:b8:40:0f:df:af:db:
+                    00:57:0f:b0:0e:4d:b0:2a:66:3e:9a:4e:5b:7d:b3:
+                    a0:59:3e:f7:b6:45:9e:24:86:ef:f9:04:f4:7d:82:
+                    c6:05:96:5d:2c:45:73:76:79:63:7c:31:9e:2d:af:
+                    5b:cb:d4:24:35:a4:4b:d6:04:dd:f5:e5:e5:a1:a3:
+                    51:67:c9:b0:98:5b:d0:b1:6d:e3:35:2f:e7:73:2f:
+                    24:55
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                AF:67:30:22:BA:19:36:87:C5:9B:F7:85:43:B3:C7:78:FF:A6:2C:EA
+            X509v3 Authority Key Identifier: 
+                keyid:0D:74:96:9B:C6:34:A7:29:AF:27:36:53:33:D9:7F:CF:74:0E:E7:00
+                DirName:/C=ID/ST=East Java/L=Surabaya/O=ITS/OU=DPTSI/CN=openvpn/name=DPTSI-OPENVPN/emailAddress=roy@its.ac.id
+                serial:D3:CA:25:75:AA:C5:A8:21
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:its-client
+    Signature Algorithm: sha256WithRSAEncryption
+         7f:53:08:b4:25:b0:ce:b8:9b:ef:ee:db:f3:87:6e:cf:41:2f:
+         ab:87:4b:0f:21:d8:59:e1:ab:46:36:c1:15:7f:cc:34:7d:ad:
+         0c:e0:f0:01:e0:6b:df:91:7b:a2:23:72:78:1a:a5:01:19:89:
+         41:27:fa:4f:a3:b4:b8:29:02:45:ab:b4:a3:1e:8c:a6:5c:5e:
+         e6:ba:58:63:96:c6:67:9b:56:30:76:6c:68:11:62:25:a2:d1:
+         23:ca:cc:c5:7b:06:b3:d7:4e:c2:be:18:e1:96:4b:02:62:d1:
+         09:8a:38:a1:7c:85:36:01:7f:26:aa:19:29:88:65:82:b9:de:
+         20:b0:e4:7f:a5:1c:bf:8c:4e:65:69:6d:ca:c4:04:48:b1:16:
+         3b:5d:93:11:73:c2:6a:96:0d:7c:83:f7:42:44:2e:72:cf:ab:
+         71:59:2f:22:36:fe:13:25:d0:de:71:e4:7a:df:d2:3b:60:2f:
+         a1:a0:e5:c2:20:e9:71:f3:46:ec:36:33:03:93:d8:ab:ad:40:
+         a7:8a:cc:d5:01:a7:e5:cc:3f:a1:8b:24:e7:de:9d:41:7d:21:
+         8a:0d:22:86:36:76:c9:0f:86:d6:cc:e4:e9:d3:90:75:53:4c:
+         d8:13:00:9b:41:d0:d9:bc:f9:eb:65:fb:c9:b8:2a:9a:0f:22:
+         5c:68:cc:c7
+-----BEGIN CERTIFICATE-----
+MIIFHDCCBASgAwIBAgIBAzANBgkqhkiG9w0BAQsFADCBmjELMAkGA1UEBhMCSUQx
+EjAQBgNVBAgTCUVhc3QgSmF2YTERMA8GA1UEBxMIU3VyYWJheWExDDAKBgNVBAoT
+A0lUUzEOMAwGA1UECxMFRFBUU0kxEDAOBgNVBAMTB29wZW52cG4xFjAUBgNVBCkT
+DURQVFNJLU9QRU5WUE4xHDAaBgkqhkiG9w0BCQEWDXJveUBpdHMuYWMuaWQwHhcN
+MTcwNzIwMDE1NzE3WhcNMjcwNzE4MDE1NzE3WjCBmzELMAkGA1UEBhMCSUQxEjAQ
+BgNVBAgTCUVhc3QgSmF2YTERMA8GA1UEBxMIU3VyYWJheWExDDAKBgNVBAoTA0lU
+UzEOMAwGA1UECxMFRFBUU0kxEzARBgNVBAMTCml0cy1jbGllbnQxEjAQBgNVBCkT
+CUlUUy1EUFRTSTEeMBwGCSqGSIb3DQEJARYPZHB0c2lAaXRzLmFjLmlkMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAriZWvwdjckUFzgTCM1bUIMaLf5nj
+UQwrAg1zpHima/CuL6y8BUHzGj0svmvafejDGwM5w1zfGfU7eQmNVG6+4dGAFkef
+H2dSPCrJ+m0vC92wupSFkmswwTU0Z67fZ9ksZewTPGAY7gJDPlYFBaHuoVXPcvUw
+1zEKAkR+HpdqpRlHkM2yEgBExr0PZXtySDwOTimShlEOTnPHlMiWLq3ZmOOnfa6u
+1QiiJPZ9Vkm4QA/fr9sAVw+wDk2wKmY+mk5bfbOgWT73tkWeJIbv+QT0fYLGBZZd
+LEVzdnljfDGeLa9by9QkNaRL1gTd9eXloaNRZ8mwmFvQsW3jNS/ncy8kVQIDAQAB
+o4IBaDCCAWQwCQYDVR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1SU0EgR2Vu
+ZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBSvZzAiuhk2h8Wb94VDs8d4/6Ys
+6jCBzwYDVR0jBIHHMIHEgBQNdJabxjSnKa8nNlMz2X/PdA7nAKGBoKSBnTCBmjEL
+MAkGA1UEBhMCSUQxEjAQBgNVBAgTCUVhc3QgSmF2YTERMA8GA1UEBxMIU3VyYWJh
+eWExDDAKBgNVBAoTA0lUUzEOMAwGA1UECxMFRFBUU0kxEDAOBgNVBAMTB29wZW52
+cG4xFjAUBgNVBCkTDURQVFNJLU9QRU5WUE4xHDAaBgkqhkiG9w0BCQEWDXJveUBp
+dHMuYWMuaWSCCQDTyiV1qsWoITATBgNVHSUEDDAKBggrBgEFBQcDAjALBgNVHQ8E
+BAMCB4AwFQYDVR0RBA4wDIIKaXRzLWNsaWVudDANBgkqhkiG9w0BAQsFAAOCAQEA
+f1MItCWwzrib7+7b84duz0Evq4dLDyHYWeGrRjbBFX/MNH2tDODwAeBr35F7oiNy
+eBqlARmJQSf6T6O0uCkCRau0ox6Mplxe5rpYY5bGZ5tWMHZsaBFiJaLRI8rMxXsG
+s9dOwr4Y4ZZLAmLRCYo4oXyFNgF/JqoZKYhlgrneILDkf6Ucv4xOZWltysQESLEW
+O12TEXPCapYNfIP3QkQucs+rcVkvIjb+EyXQ3nHket/SO2AvoaDlwiDpcfNG7DYz
+A5PYq61Ap4rM1QGn5cw/oYsk596dQX0hig0ihjZ2yQ+G1szk6dOQdVNM2BMAm0HQ
+2bz562X7ybgqmg8iXGjMxw==
+-----END CERTIFICATE-----
